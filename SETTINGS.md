@@ -19,7 +19,7 @@ First you have to enable the Welcome message
 
 !![Welcomemessage](http://i.imgur.com/o7bR4u1.png)
 r
-### Welcome channel
+#### Welcome channel
 
 You can set a specific channel for the welcome announcement or you set it as private message.
 If it's private, the bot sends the new member a private message with the welcome text.
@@ -29,7 +29,7 @@ Use `!welcomechannel #channel` to set it to a channel, or only `!welcomechannel`
 ![Welcomechannel](http://i.imgur.com/sRNrjI0.png)
 
 
-### Welcome message content
+#### Welcome message content
 
 You can set your own welcome text for the message! But note: Emojis won't work!
 
