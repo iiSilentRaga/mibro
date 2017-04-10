@@ -21,7 +21,7 @@ Have a look to [Settings](https://github.com/009800/mibro/blob/master/SETTINGS.m
 
 **[Invite](https://discordapp.com/oauth2/authorize?client_id=236884221182869504&scope=bot&permissions=469762078)** MiBro to your Server
 
-Or visit the **[Discord SUpport Server](https://discord.gg/PKUNAH9)**
+Or visit the **[Discord Support Server](https://discord.gg/PKUNAH9)**
   
 ## MiBro-Own-Report-System (MORS)
 
