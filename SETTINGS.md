@@ -17,8 +17,8 @@ a
 
 First you have to enable the Welcome message 
 
-!![Welcomemessage](http://i.imgur.com/o7bR4u1.png)
-r
+![Welcomemessage](http://i.imgur.com/o7bR4u1.png)
+
 #### Welcome channel
 
 You can set a specific channel for the welcome announcement or you set it as private message.
