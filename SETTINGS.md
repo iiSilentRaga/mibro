@@ -26,7 +26,7 @@ If it's private, the bot sends the new member a private message with the welcome
 
 Use `!welcomechannel #channel` to set it to a channel, or only `!welcomechannel` without any arguments to set it as private message
 
-![Welcomechannel](http://i.imgur.com/sRNrjI0.png)
+![Welcomechannel](http://i.imgur.com/CfQRW6U.png)
 
 
 #### Welcome message content
