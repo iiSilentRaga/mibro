@@ -17,6 +17,7 @@ The Admin/Moderator commands can be used by the server owner and the members wit
 
 Have a look to [Settings](https://github.com/009800/mibro/blob/master/SETTINGS.md) to get a detailed describtion for setting up the bot.
   
+*All commands on my [website](http://five-of-diamonds.webnode.com/mibro/)*
   
 ## MiBro-Own-Report-System (MORS)
 
