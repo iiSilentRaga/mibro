@@ -29,3 +29,33 @@ If it's private, the bot sends the new member a private message with the welcome
 Use `!welcomechannel #channel` to set it to a channel, or only `!welcomechannel` without any arguments to set it as private message
 
 ![Welcomechannel](http://i.imgur.com/sRNrjI0.png)
+
+
+### Welcome message content
+
+You can set your own welcome text for the message! But note: Emojis won't work!
+
+Use `!welcomecontent` **without** any arguments to show the current welcome text.
+
+To set it, just type `!welcomecontent Your welcome text here`
+
+![Welcomecontent](http://i.imgur.com/sl2dQHt.png)
+
+
+## User role self management
+
+This system gives members the possibility to add certain roles on their own.
+
+The Moderators set up a list of roles which the members can add.
+Some examples:
+  * different game roles
+  * Music genre
+  * Teams
+  
+The Moderators use `!addrole @role` or `!deleterole @role` to add or delete roles from the list. (`!deleterole` without any argument will delete all roles from the list)  
+
+With `!sub` everyone can show the current list of available roles.
+Use `!sub @role` to add the certain role.
+
+![Sub](http://i.imgur.com/SbExwwI.png)
+
