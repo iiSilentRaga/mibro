@@ -68,6 +68,8 @@ Use `!sub @role` to add the certain role.
 
 ![Sub](http://i.imgur.com/SbExwwI.png)
 
+**Please note:** MiBro needs a role with permission to assign roles. And this roles has to be higher than the roles you want to add. (Look at you Discord Serversettings)
+
 ## Swearword block
 
 This feature blocks the most bad words. It's not perfect but it keeps the chat clean from too swearing
