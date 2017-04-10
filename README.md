@@ -13,7 +13,9 @@ Some features are:
   * Swearwordblock
   * Server wide report- / commendation-system (MORS info down below)
   
-  
+The Admin/Moderator commands can be used by the server owner and the members with the Moderator-role you can set.
+
+Have a look to [Settings](https://github.com/009800/mibro/blob/master/SETTINGS.md) to get a detailed describtion for setting up the bot.
   
   
 ## MiBro-Own-Report-System (MORS)
@@ -26,7 +28,7 @@ Server wide means that on every server on which MiBro is the reports will be not
  * At 5 or more, the moderators of the server will be informed
  * One user can report an other user only once
  
-They will be an update soon which will extend this feature in some ways.
+There will be an update soon which will extend this feature in some ways.
 
 Command: `!report @someone your reason`
 
@@ -36,10 +38,10 @@ But you can not only report people, you are also able to commend someone.
 
 This is server wide too.
  * A user gets 3 commends: He earns free 250 XP (provided it's enabled)
- *             5 commends: He earns free 550 XP (provided it's enabled)
- *             n commends: ...maybe something special
+ * 5 commends: He earns free 550 XP (provided it's enabled)
+ * n commends: ...maybe something special
 
-#### User role self management
+## User role self management
 
 The feature allows members to add certain roles on their own. No permission or admin needed.
 
