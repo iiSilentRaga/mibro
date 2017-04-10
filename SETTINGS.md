@@ -60,7 +60,7 @@ You can show your current rank with `!rank` or the top ranking of the server wit
 
 ## User role self management
 
-This system gives members the possibility to add certain roles on their own.
+This system gives members the possibility to add certain roles on their own. No permission or admin needed!
 
 The Moderators set up a list of roles which the members can add.
 Some examples:
