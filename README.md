@@ -18,6 +18,10 @@ The Admin/Moderator commands can be used by the **server owner** and the members
 Have a look to [Settings](https://github.com/009800/mibro/blob/master/SETTINGS.md) to get a detailed description for setting up the bot.
   
 *All commands on my [website](http://five-of-diamonds.webnode.com/mibro/)*
+
+**[Invite](https://discordapp.com/oauth2/authorize?client_id=236884221182869504&scope=bot&permissions=469762078)** MiBro to your Server
+
+Or visit the **[Discord SUpport Server](https://discord.gg/PKUNAH9)**
   
 ## MiBro-Own-Report-System (MORS)
 
