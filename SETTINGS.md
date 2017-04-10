@@ -7,7 +7,6 @@ Use `!settings` to show your current settings. At the same time, this shows the 
 
 
 ## Set up Modrole / Channel
-
 Use `!modrole @role` and `!modchannel #channel` to set your role and channel.
 
 ![Modrole](http://i.imgur.com/SMv4tU8.png) ![Modchannel](http://i.imgur.com/Uv0jHyI.png)
@@ -18,7 +17,7 @@ Use `!modrole @role` and `!modchannel #channel` to set your role and channel.
 
 First you have to enable to Welcome message 
 
-![Welcomemessage](http://i.imgur.com/o7bR4u1.png)
+!![Welcomemessage](http://i.imgur.com/o7bR4u1.png)
 
 
 ### Welcome channel
@@ -40,6 +39,13 @@ Use `!welcomecontent` **without** any arguments to show the current welcome text
 To set it, just type `!welcomecontent Your welcome text here`
 
 ![Welcomecontent](http://i.imgur.com/sl2dQHt.png)
+
+
+## Level and XP system
+
+Improve you community spirit with the Level and XP system. For every message members earn xp and increase their level.
+
+To enable this use `!xp on` or ``
 
 
 ## User role self management
