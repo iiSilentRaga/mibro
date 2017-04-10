@@ -13,7 +13,7 @@ Some features are:
   * Swearwordblock
   * Server wide report- / commendation-system (MORS info down below)
   
-The Admin/Moderator commands can be used by the server owner and the members with the Moderator-role you can set.
+The Admin/Moderator commands can be used by the **server owner** and the members with the **Moderator-role** which is setable.
 
 Have a look to [Settings](https://github.com/009800/mibro/blob/master/SETTINGS.md) to get a detailed describtion for setting up the bot.
   
