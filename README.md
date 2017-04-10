@@ -1,4 +1,3 @@
-
 ![MiBro Logo](http://files.five-of-diamonds.webnode.com/200000086-3c7653d70d/450/coollogo_com-10095765.png)
 
 # About
@@ -13,3 +12,29 @@ Some features are:
   * Level and XP System
   * Swearwordblock
   * Server wide report- / commendation-system (MORS info following)
+  
+  
+  
+  
+## MiBro-Own-Report-System (MORS)
+
+The MORS is a server wide report system. You can report discorduser if they troll or anything else.
+
+Server wide means that on every server on which MiBro is the reports will be noted.
+
+ * At 3 reports, the reported user will be warned
+ * At 5 or more, the moderators of the server will be informed
+ * One user can report an other user only once
+ 
+They will be an update soon which will extend this feature in some ways.
+
+Command: `!report @someone your reason`
+
+#### Commendations
+
+But you can not only report people, you are also able to commend someone.
+
+This is server wide too.
+ * A user gets 3 commends: He earns free 250 XP (provided it's enabled)
+ *             5 commends: He earns free 550 XP (provided it's enabled)
+ *             n commends: ...maybe something special
