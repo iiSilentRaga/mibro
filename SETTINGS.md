@@ -40,6 +40,13 @@ To set it, just type `!welcomecontent Your welcome text here`
 ![Welcomecontent](http://i.imgur.com/sl2dQHt.png)
 
 
+## Auto role assignment
+
+If you set this role (`!autorole @role`), new members will get this role automatically in the moment they join your server.
+
+**Please Note:** Right now you can only set one autorole
+
+
 ## Level and XP system
 
 Improve you community spirit with the Level and XP system. For every message members earn xp and increase their level.
