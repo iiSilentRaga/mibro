@@ -1,3 +1,4 @@
+
 ![MiBro Logo](http://files.five-of-diamonds.webnode.com/200000086-3c7653d70d/450/coollogo_com-10095765.png)
 
 # About
@@ -12,4 +13,3 @@ Some features are:
   * Level and XP System
   * Swearwordblock
   * Server wide report- / commendation-system (MORS info following)
-
