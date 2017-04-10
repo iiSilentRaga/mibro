@@ -15,7 +15,7 @@ a
 
 ## Welcome message
 
-First you have to enable to Welcome message 
+First you have to enable the Welcome message 
 
 !![Welcomemessage](http://i.imgur.com/o7bR4u1.png)
 r
@@ -67,4 +67,10 @@ With `!sub` everyone can show the current list of available roles.
 Use `!sub @role` to add the certain role.
 
 ![Sub](http://i.imgur.com/SbExwwI.png)
+
+## Swearword block
+
+This feature blocks the most bad words. It's not perfect but it keeps the chat clean from too swearing
+
+Enable it with `!wordblock on` or disable it with `!wordblock off`
 
