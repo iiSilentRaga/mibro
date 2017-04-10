@@ -28,8 +28,6 @@ Server wide means that on every server on which MiBro is the reports will be not
  * At 3 reports, the reported user will be warned
  * At 5 or more, the moderators of the server will be informed
  * One user can report an other user only once
- 
-There will be an update soon which will extend this feature in some ways.
 
 *Command:* `!report @someone your reason`
 
@@ -43,6 +41,9 @@ This is server wide too.
  * n commends: ...maybe something special
  
 *Command:* `!commend @someone`
+
+
+*There will be an update soon which will extend this feature in some ways.*
 
 ## User role self management
 
