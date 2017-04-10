@@ -31,7 +31,7 @@ Server wide means that on every server on which MiBro is the reports will be not
  
 There will be an update soon which will extend this feature in some ways.
 
-Command: `!report @someone your reason`
+*Command:* `!report @someone your reason`
 
 #### Commendations
 
@@ -41,6 +41,8 @@ This is server wide too.
  * A user gets 3 commends: He earns free 250 XP (provided it's enabled)
  * 5 commends: He earns free 550 XP (provided it's enabled)
  * n commends: ...maybe something special
+ 
+*Command:* `!commend @someone`
 
 ## User role self management
 
