@@ -67,6 +67,10 @@ You can connect a channel of your server to the global Prikbord.
 People can send MiBro a private message with: _post 'stuff here'_
 and MiBro will send the message in all connected Prikbord channels. Anonymous!
 
+You don't know who the message send, and how many people can read it!
+
+
+## Setup guide
 Detailed command description [here](https://github.com/009800/mibro/blob/master/SETTINGS.md#user-role-self-management)
 
                                                             2304
