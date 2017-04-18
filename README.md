@@ -12,6 +12,7 @@ Some features are:
   * Level and XP System
   * Swearwordblock
   * Server wide report- / commendation-system (MORS info down below)
+  * Global Prikbord (info down below)
   
 The Admin/Moderator commands can be used by the **server owner** and the members with the **Moderator-role** which is setable.
 
@@ -57,6 +58,14 @@ The Moderator can set up a list of roles which can be added.
 Some applications:
  * Game roles
  * Music genre
+
+## Global Prikbord
+
+This is a new project! 
+You can connect a channel of your server to the global Prikbord.
+
+People can send MiBro a private message with: _post 'stuff here'_
+and MiBro will send the message in all connected Prikbord channels. Anonymous!
 
 Detailed command description [here](https://github.com/009800/mibro/blob/master/SETTINGS.md#user-role-self-management)
 
