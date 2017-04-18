@@ -83,3 +83,8 @@ This feature blocks the most bad words. It's not perfect but it keeps the chat c
 
 Enable it with `!wordblock on` or disable it with `!wordblock off`
 
+
+## Global Prikbord
+
+To connect to the gloabl prikbord: `!prikbord #channel`
+To disconnect: `!prikbord` (without arguments)
