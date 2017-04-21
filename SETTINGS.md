@@ -68,12 +68,12 @@ Some examples:
   * Music genre
   * Teams
   
-The Moderators use `!addrole @role` or `!deleterole @role` to add or delete roles from the list. (`!deleterole` without any argument will delete all roles from the list)  
+The Moderators use `!addrole` or `!deleterole` to add or delete roles from the list.
 
-With `!sub` everyone can show the current list of available roles.
-Use `!sub @role` to add the certain role.
+With `!sub` everyone can subscribe the roles from the above list.
+Use `!unsub` same with unsubscribe.
 
-![Sub](http://i.imgur.com/SbExwwI.png)
+These two commands show the list of available roles, and you just have to type in the number. (Picutes following!)
 
 **Please note:** MiBro needs a role with permission to assign roles. And this roles has to be higher than the roles you want to add. (Look at you Discord Serversettings)
 
