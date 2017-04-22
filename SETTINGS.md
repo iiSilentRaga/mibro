@@ -71,7 +71,7 @@ Some examples:
 The Moderators use `!addrole` or `!deleterole` to add or delete roles from the list.
 
 With `!sub` everyone can subscribe the roles from the above list.
-Use `!unsub` same with unsubscribe.
+Use `!unsub` to unsubscribe.
 
 These two commands show the list of available roles, and you just have to type in the number. (Picutes following!)
 
