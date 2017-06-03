@@ -88,3 +88,7 @@ This feature blocks the most bad words. It's not perfect but it keeps the chat c
 
 Enable it with `!wordblock on` or disable it with `!wordblock off`
 
+## Custom commands
+
+Use `!addcommand` to create a new command for your server. `!deletecommand` will delete the certain command you want.
+
